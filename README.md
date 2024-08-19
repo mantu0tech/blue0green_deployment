@@ -24,3 +24,4 @@ S3 Bucket:
 Used S3 to store artifacts and manage code files efficiently during the deployment process.
 This project provided hands-on experience with AWS services and solidified my understanding of Blue-Green Deployment, CI/CD pipelines, and automated deployments.
 
+
